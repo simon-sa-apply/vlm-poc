@@ -1,0 +1,6 @@
+google-cloud-aiplatform>=1.60
+chromadb>=0.5
+Pillow>=10.0
+tenacity>=8.2
+tqdm>=4.66
+python-dotenv>=1.0

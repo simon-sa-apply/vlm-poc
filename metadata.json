@@ -1,0 +1,5 @@
+{
+  "name": "VLM Image Similarity Search Agent",
+  "description": "A PoC reactive agent that transforms a static pool of images into an intelligent, searchable visual knowledge base using Gemini 1.5 Flash 002 and Multimodal Embeddings.",
+  "requestFramePermissions": []
+}
